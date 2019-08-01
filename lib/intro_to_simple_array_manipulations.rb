@@ -43,5 +43,5 @@ def using_delete(array, element)
 end
 
 def using_delete_at(array, index)
-  array.uniq
+  array.delete(index)
 end
