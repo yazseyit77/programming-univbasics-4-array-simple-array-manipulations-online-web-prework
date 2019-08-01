@@ -21,5 +21,3 @@ end
 def using_shift(array)
   arary.shift(2)
 end
-
-  
